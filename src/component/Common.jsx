@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 const Common = (props) => {
   return (
     <>
- <section id='header' className='mt-5'>
+ <section id='header' className='mt-5 common_height' >
     <div className='container-fluid nav_bg'>
     <div className='row' >
     <div className='col-10 mx-auto'>

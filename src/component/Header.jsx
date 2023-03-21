@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <div className="container-fluid  ">
+    <div className="container-fluid h-20  ">
       <div className="row">
         <div className="col-10 mx-auto">
           <div>
