@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Firstapp/static/css/main.73e8148f.css",
+    "main.js": "/Firstapp/static/js/main.30809d7f.js",
+    "static/js/787.142da1d4.chunk.js": "/Firstapp/static/js/787.142da1d4.chunk.js",
+    "static/media/services.jpg": "/Firstapp/static/media/services.6741bb5025e7d70644ae.jpg",
+    "static/media/img.jpg": "/Firstapp/static/media/img.0c15afba86442bed66c2.jpg",
+    "static/media/css.jpg": "/Firstapp/static/media/css.00e8d33cb2774c2fb2bf.jpg",
+    "static/media/js.jpg": "/Firstapp/static/media/js.66132098a8abdb369989.jpg",
+    "static/media/html.jpg": "/Firstapp/static/media/html.a774f6bb9dcfdc10015a.jpg",
+    "static/media/home1.jpg": "/Firstapp/static/media/home1.72219c7b4d93ab65005c.jpg",
+    "static/media/react.jpg": "/Firstapp/static/media/react.e92c882452dfe7214f68.jpg",
+    "index.html": "/Firstapp/index.html",
+    "main.73e8148f.css.map": "/Firstapp/static/css/main.73e8148f.css.map",
+    "main.30809d7f.js.map": "/Firstapp/static/js/main.30809d7f.js.map",
+    "787.142da1d4.chunk.js.map": "/Firstapp/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e8148f.css",
+    "static/js/main.30809d7f.js"
+  ]
+}
